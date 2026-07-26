@@ -76,6 +76,27 @@ Durante o desenvolvimento deste projeto foram praticados:
 * Manipulação de banco de dados relacional
 * Persistência de dados
 
+## DEMONSTRAÇÃO
+
+## TELA INICIAL
+<img width="387" height="160" alt="INICIAL-IMG-1" src="https://github.com/user-attachments/assets/dc250764-7f05-4b74-8a74-67aeb8aa7ebd" />
+
+## CADASTRO DE AÇÕES
+<img width="305" height="223" alt="CADASTRO-IMG-2" src="https://github.com/user-attachments/assets/a49506c4-055c-4c83-892e-5b84736cc327" />
+
+## LISTAR AÇÕES EXISTENTE
+<img width="295" height="363" alt="LISTAR-IMG-3" src="https://github.com/user-attachments/assets/2b25b00e-aa3b-4e21-894e-91a623d4f3d1" />
+
+## PESQUSIAR POR AÇÃO
+<img width="325" height="270" alt="PESQUISAR-IMG-4" src="https://github.com/user-attachments/assets/07bf4f10-3e76-4bb9-a830-382c826a615e" />
+
+## EXCLUIR UMA AÇÃO
+<img width="349" height="177" alt="EXCLUIR-IMG-5" src="https://github.com/user-attachments/assets/fea757bf-8515-45b2-80a7-455ce1fb596a" />
+
+## ALTERAR UMA AÇÃO
+<img width="651" height="385" alt="ALTERAR-IMG-6" src="https://github.com/user-attachments/assets/28de0751-bba9-4861-84a2-6efad440aa7a" />
+
+
 ## Autor
 
 André Diniz
